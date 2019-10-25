@@ -1,0 +1,23 @@
+.jumbotron{
+ background-color:darkblue;
+    background-repeat: cover;
+    color: blue;
+}
+body {
+background-color:Lightblue ;
+}
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+}
+p{
+  background-color: gold;
+}
+h1{
+  background-color: gold;
+}
+
+.github-links{
+  color: white;
+}
