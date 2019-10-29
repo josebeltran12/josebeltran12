@@ -1,23 +1,13 @@
 .jumbotron{
- background-color:darkblue;
+ background-image: url("https://image.shutterstock.com/display_pic_with_logo/72627/520564141/stock-photo-cheering-crowd-watching-fireworks-at-new-year-holiday-celebration-background-520564141.jpg");
     background-repeat: cover;
     color: blue;
 }
 body {
-background-color:Lightblue ;
+background-color:Light blue ;
 }
 .button2 {
   background-color: white;
   color: black;
   border: 2px solid #008CBA;
-}
-p{
-  background-color: gold;
-}
-h1{
-  background-color: gold;
-}
-
-.github-links{
-  color: white;
 }
